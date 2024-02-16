@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am a computer science student passionate about learning new languages and data structures. I currently work with C++, Google test, and Java. I am interested in learning more about app development paired with devices.
+-🔭 I’m currently working on an app to supplement a niche market
+- 🌱 I’m currently learning various data structures like maps, sets, queues, lists, vectors, and more
+- 👯 I’m looking to collaborate on the app I will be developing
+- 🤔 I’m looking for help with how to connect a device to a map through other means besides bluetooth
 
 <!--
 **YousefAbuadas/YousefAbuadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
